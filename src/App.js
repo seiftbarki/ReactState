@@ -10,7 +10,7 @@ class App extends React.Component
       console.log("constructor")
       this.state = {
       
-        fullName : "Rahma metichi" ,bio : "IT Developer" ,profession  : "Student " ,check : false}
+        fullName : "seif tbarki" ,bio : "IT Developer" ,profession  : "Student " ,check : false}
   }
 
   componentDidMount(){
